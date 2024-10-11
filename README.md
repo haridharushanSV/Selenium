@@ -3,6 +3,16 @@
 Selenium is a browser automation library. Most often used for testing
 web-applications, Selenium may be used for any task that requires automating
 interaction with the browser.
+# Steps:
+  1.	Choosing browser
+  2.	Assign URL
+  3.	Assign Implict Wait
+  4.	Prepare Testing Scripts
+  5.	Close Browser
+
+# To download Selenium Dependencies for mavan project:
+
+https://mvnrepository.com/search?q=selenium
 
 
 
@@ -16,7 +26,6 @@ you need to run command `safaridriver --enable`.
 | Browser           | Component                        |
 | :---------------- | :------------------------------- |
 | Chrome            | [chromedriver(.exe)][chrome]     |
-| Internet Explorer | [IEDriverServer.exe][release]    |
 | Edge              | [MicrosoftWebDriver.msi][edge]   |
 | Firefox           | [geckodriver(.exe)][geckodriver] |
 | Opera             | [operadriver(.exe)][operadriver] |
