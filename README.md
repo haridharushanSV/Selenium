@@ -19,16 +19,14 @@ https://mvnrepository.com/search?q=selenium
 You will need to download additional components to work with each of the major
 browsers. The drivers for Chrome, Firefox, and Microsoft's IE and Edge web
 browsers are all standalone executables that should be placed on your system
-[PATH]. Apple's safaridriver (v10 and above) can be found at the
-following path – /usr/bin/safaridriver. To enable automation on safari,
-you need to run command `safaridriver --enable`.
+[PATH].
 
 | Browser           | Component                        |
 | :---------------- | :------------------------------- |
 | Chrome            | [chromedriver(.exe)][chrome]     |
 | Edge              | [MicrosoftWebDriver.msi][edge]   |
 | Firefox           | [geckodriver(.exe)][geckodriver] |
-| Opera             | [operadriver(.exe)][operadriver] |
+
 
 
 
