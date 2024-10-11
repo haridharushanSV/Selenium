@@ -3,7 +3,7 @@
 Selenium is a browser automation library. Most often used for testing
 web-applications, Selenium may be used for any task that requires automating
 interaction with the browser.
-# Steps:
+# Basic Steps:
   1.	Choosing browser
   2.	Assign URL
   3.	Assign Implict Wait
